@@ -29,14 +29,14 @@ It can detect more than 80 common objects such as Person, Laptop, Mobile, Bottle
 
 ## 📂 Project Structure
 
-<details> <summary><strong>Click to expand</strong></summary> <br>
-YOLO_Webcam/
-├── main.py            # Main webcam detection script
-├── requirements.txt   # Required libraries
-└── README.md          # Project documentation
+```mermaid
 
-</details>
+    A[YOLO_ObjectDetection]
+    A --> B[main.py<br/>Main webcam detection script]
+    A --> C[requirements.txt<br/>Required libraries]
+    A --> D[README.md<br/>Project documentation]
 
+ ```
 
 # 2️⃣ Install dependencies
 

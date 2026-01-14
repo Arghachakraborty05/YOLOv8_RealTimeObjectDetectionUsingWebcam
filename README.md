@@ -30,10 +30,10 @@ It can detect more than 80 common objects such as Person, Laptop, Mobile, Bottle
 ## 📂 Project Structure
 
 YOLOv8_RealTimeObjectDetecionUsingWebcam/
-│
-├── main.py # Main webcam detection script
-├── requirements.txt # Required libraries
-└── README.md # Project documentation
+          │
+          ├── main.py # Main webcam detection script
+          ├── requirements.txt # Required libraries
+          └── README.md # Project documentation
 
 # 2️⃣ Install dependencies
 

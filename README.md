@@ -30,7 +30,7 @@ It can detect more than 80 common objects such as Person, Laptop, Mobile, Bottle
 ## 📂 Project Structure
 
 ```mermaid
-
+flowchart TD
     A[YOLO_ObjectDetection]
     A --> B[main.py<br/>Main webcam detection script]
     A --> C[requirements.txt<br/>Required libraries]

@@ -29,7 +29,7 @@ It can detect more than 80 common objects such as Person, Laptop, Mobile, Bottle
 
 ## 📂 Project Structure
 
-YOLO_Detection/
+YOLO_Webcam/
 │
 ├── main.py # Main webcam detection script
 ├── requirements.txt # Required libraries

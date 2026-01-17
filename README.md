@@ -1,11 +1,11 @@
-# 🚀 YOLOv8_RealTimeObjectDetectionUsingWebcam
+# YOLOv8_RealTimeObjectDetectionUsingWebcam
 
 This project demonstrates real-time object detection using the YOLOv8s (COCO-pretrained) model through a webcam feed.  
 It can detect more than 80 common objects such as Person, Laptop, Mobile, Bottle, Book, Chair, Dog, Cat, and many more.
 
 ---
 
-## 🎯 Features
+## Features
 
 - ✔ Real-time webcam object detection  
 - ✔ COCO-pretrained YOLOv8 model  
@@ -17,7 +17,7 @@ It can detect more than 80 common objects such as Person, Laptop, Mobile, Bottle
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - Python  
 - YOLOv8 (Ultralytics)  
@@ -27,7 +27,7 @@ It can detect more than 80 common objects such as Person, Laptop, Mobile, Bottle
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```mermaid
 flowchart TD

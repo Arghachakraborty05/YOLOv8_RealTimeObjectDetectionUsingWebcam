@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python main.py
 
 
-# 🖥️ How It Works
+# How It Works
 
 The script opens your webcam automatically.
 

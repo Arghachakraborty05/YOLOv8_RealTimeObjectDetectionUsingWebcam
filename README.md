@@ -38,11 +38,11 @@ flowchart TD
 
  ```
 
-# 2️⃣ Install dependencies
+# 1. Install dependencies
 
 pip install -r requirements.txt
 
-# 3️⃣ Run the project
+# 2. Run the project
 python main.py
 
 
